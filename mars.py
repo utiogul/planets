@@ -1,1 +1,2 @@
-print("Fuck you ELON")
+print("Hi")
+print("This is a short description of MARS")
